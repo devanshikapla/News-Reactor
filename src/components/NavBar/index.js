@@ -1,11 +1,11 @@
 export const navBar = {
-    backgroundColor: "rgb(41, 47, 51)",
+    backgroundColor: "#0c2461",
     padding: "20px",
     fontSize: "18px",
 };
 
 export const navBrand = {
-    fontSize: "27px",
+    fontSize: "30px",
     marginLeft: "20px"
 };
 

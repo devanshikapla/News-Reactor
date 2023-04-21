@@ -14,7 +14,7 @@ function App() {
     <>
       <Router>
         <NavBar />
-        <LoadingBar color="#005abb" height={3} progress={progress} />
+        <LoadingBar color="#60a3bc" height={5} progress={progress} />
         <Routes>
           {
             router.map(path =>

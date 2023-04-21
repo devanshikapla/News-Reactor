@@ -1,4 +1,4 @@
-export const navbarBrand = "News App";
+export const navbarBrand = "NEWS 24*7";
 export const header = (category) => `News - Top ${category} Headlines`;
 export const navs = [
     { nav: "Home", page: "/" },
